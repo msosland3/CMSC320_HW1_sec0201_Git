@@ -7,4 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: In finance, data science is applied to credit risk scoring where the machine learning models analyze an applicant's financial history to predict loan default probabilities.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a new merge commit and rebasing moves your branch's commits on top of another branch.
 
