@@ -1,4 +1,10 @@
+
 Q1: Why might we consider using Git?
 
 Answer: One reason that we might consider using Git is because multiple people are able to work on the same code without constatly sending files with code in it back and forth or accidently overwriting someone's changes.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: In finance, data science is applied to credit risk scoring where the machine learning models analyze an applicant's financial history to predict loan default probabilities.
+
 
