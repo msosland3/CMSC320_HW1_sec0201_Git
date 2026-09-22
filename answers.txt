@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: In finance, data science is applied to credit risk scoring where the machine learning models analyze an applicant's financial history to predict loan default probabilities.
+
